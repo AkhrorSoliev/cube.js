@@ -29,7 +29,7 @@
     "@babel/standalone": "^7.4.0",
     "@babel/traverse": "^7.4.0",
     "@babel/types": "^7.4.0",
-    "@hapi/joi": "^15.1.1",
+    "@hapi/joi": "^17.1.1",
     "antlr4": "4.8.0",
     "cron-parser": "^2.16.3",
     "humps": "^2.0.1",
